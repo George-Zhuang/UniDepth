@@ -4,7 +4,6 @@ h5py>=3.10.0
 huggingface-hub>=0.22.0
 imageio
 matplotlib
-numpy
 opencv-python
 pandas
 pillow>=10.2.0
